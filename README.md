@@ -1,4 +1,5 @@
 # sales-analysis-report
 Interactive Power BI report analyzing sales performance, period, segment, country, and product trends.
 # Home Page
-https://github.com/yisakfikred/sales-analysis-report/blob/main/01_Home.PNG?raw=true
+C:\Users\pc\OneDrive\Desktop\Power BI Portfolio\Sales Analysis Report\Screenshots\01_Home.PNG
+
