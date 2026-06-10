@@ -11,4 +11,4 @@ Interactive Power BI report analyzing sales performance, period, segment, countr
 ### Product Analysis
 ![Product Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/05_Product.PNG?raw=true)
 ### Help Page
-![Help Page]
+![Help Page](https://github.com/yisakfikred/sales-analysis-report/blob/main/06_Help.PNG?raw=true)
