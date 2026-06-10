@@ -9,6 +9,6 @@ Interactive Power BI report analyzing sales performance, period, segment, countr
 ### Country Analysis
 ![Country Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/04_Country.PNG?raw=true)
 ### Product Analysis
-![Product Analysis]
+![Product Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/05_Product.PNG?raw=true)
 ### Help Page
 ![Help Page]
