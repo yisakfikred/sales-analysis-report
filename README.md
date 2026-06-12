@@ -1,5 +1,11 @@
 # sales-analysis-report
-Interactive Power BI report analyzing sales performance, period, segment, country, and product trends.
+## Business Problem
+
+Businesses often struggle to understand which products, customer segments, countries, and time periods drive revenue and profitability. Without a centralized view of performance, decision-makers may miss opportunities to increase sales and optimize profits.
+
+## Project Goal
+
+Develop an interactive Power BI dashboard that enables stakeholders to monitor sales performance, analyze profitability trends, identify top-performing products and markets, and support data-driven decision-making.
 ### Home Page
 Provides a high-level overview of key business metrics, including Units Sold, Net Sales, COGs, and Net Profit.
 
