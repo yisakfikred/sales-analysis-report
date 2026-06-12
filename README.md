@@ -7,11 +7,11 @@ Businesses often struggle to understand which products, customer segments, count
 
 Develop an interactive Power BI dashboard that enables stakeholders to monitor sales performance, analyze profitability trends, identify top-performing products and markets, and support data-driven decision-making.
 ## Key Insight
-*Sales and profitability trends vary significantly across different time periods, highlighting opportunities for seasonal planning.
-*A small number of products contribute a large share of total revenue and profit.
-*Customer segments differ in both purchasing behavior and profitability.
-*Certain countries consistently outperform others in sales and profit generation.
-*Profitability does not always align with sales volume, emphasizing the importance of margin analysis.
+Sales and profitability trends vary significantly across different time periods, highlighting opportunities for seasonal planning.
+A small number of products contribute a large share of total revenue and profit.
+Customer segments differ in both purchasing behavior and profitability.
+Certain countries consistently outperform others in sales and profit generation.
+Profitability does not always align with sales volume, emphasizing the importance of margin analysis.
 ### Home Page
 Provides a high-level overview of key business metrics, including Units Sold, Net Sales, COGs, and Net Profit.
 
