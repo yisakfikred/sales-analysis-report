@@ -1,4 +1,4 @@
-# Sales-Analysis-Report
+# Sales Analysis Report
 ## Business Problem
 
 Businesses often struggle to understand which products, customer segments, countries, and time periods drive revenue and profitability. Without a centralized view of performance, decision-makers may miss opportunities to increase sales and optimize profits.
