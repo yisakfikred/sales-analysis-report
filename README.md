@@ -6,7 +6,7 @@ Businesses often struggle to understand which products, customer segments, count
 ## Project Goal
 
 Develop an interactive Power BI dashboard that enables stakeholders to monitor sales performance, analyze profitability trends, identify top-performing products and markets, and support data-driven decision-making.
-## Key Insight
+## Key Insights
 - Sales and profitability trends vary significantly across different time periods, highlighting opportunities for seasonal planning.
 - A small number of products contribute a large share of total revenue and profit.
 - Customer segments differ in both purchasing behavior and profitability.
