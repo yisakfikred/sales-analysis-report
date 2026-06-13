@@ -7,10 +7,10 @@ Businesses often struggle to understand which products, customer segments, count
 
 Develop an interactive Power BI dashboard that enables stakeholders to monitor sales performance, analyze profitability trends, identify top-performing products and markets, and support data-driven decision-making.
 ## Key Insights
-- Sales and profitability trends vary significantly across different time periods, highlighting opportunities for seasonal planning.
-- A small number of products contribute a large share of total revenue and profit.
-- Customer segments differ in both purchasing behavior and profitability.
-- Certain countries consistently outperform others in sales and profit generation.
+- Sales peaked in October 2022, generating 175.9% higher revenue compared to the lowest-performing month.
+- The Channel Partners segment achieved the highest profit margin of 73%, making it the most profitable customer segment.
+- France emerged as the strongest market, contributing 22.4% of total profit and 16% of profit margin.
+- Paseo product generated the highest revenue, accounting for 27.8% of total sales and 23.4% of total profit.
 - Profitability does not always align with sales volume, emphasizing the importance of margin analysis.
 ## Skills Demonstrated
 
