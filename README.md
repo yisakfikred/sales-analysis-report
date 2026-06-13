@@ -17,7 +17,7 @@ Provides a high-level overview of key business metrics, including Units Sold, Ne
 
 ![Home Page](https://github.com/yisakfikred/sales-analysis-report/blob/main/01_Home.PNG?raw=true)
 ### Period Analysis
-Analyzes sales and profit trends over time to identify growth patterns and seasonal performance.
+Analyzes Units Sold, Net Sales, COGs, and Net Profit trends over time to identify growth patterns and seasonal performance.
 
 ![Period Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/02_Period.PNG?raw=true)
 ### Segment Analysis
@@ -25,7 +25,7 @@ Compares performance across customer segments to uncover valuable and profitable
 
 ![Segment Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/03_Segment.PNG?raw=true)
 ### Country Analysis
-Evaluates sales and profit contribution by country to support market-focused decision-making.
+Evaluates Units Sold, Net Sales, COGs, and Net Profit contribution by country to support market-focused decision-making.
 
 ![Country Analysis](https://github.com/yisakfikred/sales-analysis-report/blob/main/04_Country.PNG?raw=true)
 ### Product Analysis
