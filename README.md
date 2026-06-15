@@ -17,18 +17,18 @@ Develop an interactive Power BI dashboard that enables stakeholders to monitor s
 
 - Data Cleaning & Transformation (Power Query)
 - Data Modeling & Relationships
-- DAX Measures & KPIs
+- DAX Calculation
+- KPI Development
 - Interactive Dashboard Design
 - Data Storytelling & Visualization
-- Business Performance Analysis
-- Sales Analytics
+- Business Analysis
+- Insight Generation
 ## Tools Used
 
 - Power BI Desktop
 - Power Query
 - DAX
-- Data Modeling
-- Interactive Visualizations
+- Microsoft Excel
 
 ### Home Page
 Provides a high-level overview of key business metrics, including Units Sold, Net Sales, COGs, and Net Profit.
