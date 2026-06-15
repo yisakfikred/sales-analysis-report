@@ -11,7 +11,7 @@ Develop an interactive Power BI dashboard that enables stakeholders to monitor s
 - The Channel Partners segment achieved the highest profit margin of 73%, making it the most profitable customer segment.
 - France emerged as the strongest market, contributing 22.4% of total profit and 16% of profit margin.
 - Paseo product generated the highest revenue, accounting for 27.8% of total sales and 23.4% of total profit.
-- Profitability does not always align with sales volume, emphasizing the importance of margin analysis.
+- The business generated a total Net Profit of $16,893,702 with an overall profit margin of 14%.
 ## Skills Demonstrated
 
 - Data Cleaning & Transformation (Power Query)
