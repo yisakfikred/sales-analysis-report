@@ -33,7 +33,7 @@ Develop an interactive Power BI dashboard that enables stakeholders to monitor s
 ### Home Page
 Provides a high-level overview of key business metrics, including Units Sold, Net Sales, COGs, and Net Profit.
 
-![Home Page](https://github.com/yisakfikred/sales-analysis-report/blob/main/01_Home.PNG?raw=true)
+![Home Page](https://github.com/yisakfikred/sales-analysis-report/blob/main/assets/01_Home.PNG?raw=true)
 ### Period Analysis
 Analyzes Units Sold, Net Sales, COGs, and Net Profit trends over time to identify growth patterns and seasonal performance.
 
