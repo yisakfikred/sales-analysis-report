@@ -1,5 +1,5 @@
 # Sales Analysis Report
-Interactive Power BI report analyzing sales performance, period, segment, country, and product trends.
+This project is an interactive Power BI report analyzing sales performance, period, segment, country, and product trends.
 ## Business Problem
 
 Businesses often struggle to understand which products, customer segments, countries, and time periods drive revenue and profitability. Without a centralized view of performance, decision-makers may miss opportunities to increase sales and optimize profits.
